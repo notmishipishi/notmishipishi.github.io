@@ -1,4 +1,3 @@
-# notmishipishi.github.io
+# Website
 
-**this truly was**
-a website . 
+i'll add things to this at some point.
